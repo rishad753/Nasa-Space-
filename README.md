@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # # Project NEXUS-FRONTIER (SPARK-FRONTIER) 🚀
 > **NASA Space Apps Challenge 2026** | **Location:** Mymensingh, Bangladesh (Local In-Person Event)  
 > **Challenge Target:** CLPS Lunar Mission Browser / Space Exploration  
@@ -92,3 +93,6 @@ Ensure you have **Node.js** (v18 or higher) installed on your system.
 - **📱 Responsive Mobile Cross-Platform Version:** We are actively compiling our React Three Fiber bundle into a native wrapper (Capacitor/React Native) to launch SPARK-FRONTIER natively on iOS and Android handheld screens very soon.
 - **🤖 Automated AI Voice Mentors:** Setting up native DeepSeek API voice modules inside our virtual mascot helper bot NEXA.
 - 
+=======
+# Nasa-Space-
+>>>>>>> 1c1e032610ab4ab7de3406f97bba965dfb36739a
